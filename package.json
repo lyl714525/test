@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "test-lyl-test",
   "version": "0.0.1",
   "description": "前端缓存工具",
   "main": "src/index.js",
@@ -29,5 +29,8 @@
     "babel-preset-latest": "^6.24.1",
     "webpack": "^4.16.1",
     "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "user": "0.0.0"
   }
 }
